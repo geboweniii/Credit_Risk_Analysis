@@ -1,5 +1,3 @@
-# Credit_Risk_Analysis
-
 ## Analysis Overview
 Python was used to build and evaluate several machine learning models to predict credit risk.\
 This involved oversample the data using RandomOverSampler and SMOTE, undersample the data using ClusterCentroids, an oversampling and undersampling using the SMOTEENN, and comparison of two machine learning models BalancedRandomForestClassifier and EasyEnsembleClassifier. Model results will determine whether they should be used to predict credit risk.
